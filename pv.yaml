@@ -9,5 +9,5 @@ spec:
     - ReadWriteOnce
   storageClassName: slow
   gcePersistentDisk:
-    pdName: my-data-disk
+    pdName: my-disk-data
     fsType: ext4
